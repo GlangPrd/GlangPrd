@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **ugurr.karayigit@gmail.com**
 
-- Experiences and About Me [I operate highly secure, fast and stable validator nodes for many testnet blockchains.I'm using Hetzner as a server. I have been operating validator nodes since October 2021 and have gained valuable experience in these 1 year.](I operate highly secure, fast and stable validator nodes for many testnet blockchains.I'm using Hetzner as a server. I have been operating validator nodes since October 2021 and have gained valuable experience in these 1 year.)
+- Experiences and About Me : I operate highly secure, fast and stable validator nodes for many testnet blockchains.I'm using Hetzner as a server. I have been operating validator nodes since October 2021 and have gained valuable experience in these 1 year.I operate highly secure, fast and stable validator nodes for many testnet blockchains.I'm using Hetzner as a server. I have been operating validator nodes since October 2021 and have gained valuable experience in these 1 year.
 
-- Security Precautions [Firewall - We reject all incoming traffic except a few important ports like 26656. Hardware, we connected SSH Key Authentication to login to server (.pem). No one can log in without these keys.](Firewall - We reject all incoming traffic except a few important ports like 26656. Hardware, we connected SSH Key Authentication to login to server (.pem). No one can log in without these keys.)
+- Security Precautions : Firewall - We reject all incoming traffic except a few important ports like 26656. Hardware, we connected SSH Key Authentication to login to server (.pem). No one can log in without these keys.
 
-- Backup [I use Zerto IT Resilience Platform for disaster recovery for cloud environments](I use Zerto IT Resilience Platform for disaster recovery for cloud environments)
+- Backup : I use Zerto IT Resilience Platform for disaster recovery for cloud environments.I use Zerto IT Resilience Platform for disaster recovery for cloud environments.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
