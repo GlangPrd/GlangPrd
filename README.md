@@ -11,7 +11,7 @@
 
 - Security Precautions : Firewall - We reject all incoming traffic except a few important ports like 26656. Hardware, we connected SSH Key Authentication to login to server (.pem). No one can log in without these keys.
 
-- Backup : I use Zerto IT Resilience Platform for disaster recovery for cloud environments.I use Zerto IT Resilience Platform for disaster recovery for cloud environments.
+- Backup : I use Zerto IT Resilience Platform for disaster recovery for cloud environments.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
