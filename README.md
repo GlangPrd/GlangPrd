@@ -6,6 +6,16 @@ Security Precautions : Firewall - We reject all incoming traffic except a few im
 
 Backup : I use Zerto IT Resilience Platform for disaster recovery for cloud environments.
 
+What are the Systems that I Run Node ?
+
+Intel E-2388G 8 cores / 16 threads @ 3.2 GHz 
+
+128 GB Memory
+
+2 x 1.92 TB NVMe
+
+10 TB Bandwidth
+
 - 🌱 I’m currently learning Layer 1 , Layer 2 projects 
 - 📫 How to reach me: ugurr.karayigit@gmail.com 
 - ⚡ Fun fact: I love to listening to music and play the piano 
