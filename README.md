@@ -15,7 +15,7 @@ Intel E-2388G 8 cores / 16 threads @ 3.2 GHz
 2 x 1.92 TB NVMe
 
 10 TB Bandwidth
-
+- Discord ID : Glang#5676
 - 🌱 I’m currently learning Layer 1 , Layer 2 projects 
 - 📫 How to reach me: ugurr.karayigit@gmail.com 
 - ⚡ Fun fact: I love to listening to music and play the piano 
