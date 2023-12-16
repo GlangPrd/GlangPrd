@@ -4,7 +4,7 @@ Experiences and About Me : I operate highly secure, fast and stable validator no
 
 Security Precautions : Firewall - We reject all incoming traffic except a few important ports like 26656. Hardware, we connected SSH Key Authentication to login to server (.pem). No one can log in without these keys.
 
-Backup : I use Zerto IT Resilience Platform for disaster recovery for cloud environments.
+Backup : We use Acronis Cyber Backup for disaster scenarios.
 
 What are the Systems that I Run Node ?
 
