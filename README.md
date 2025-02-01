@@ -18,7 +18,7 @@ Intel E-2388G 8 cores / 16 threads @ 3.2 GHz
 
 - Discord ID : Glang#5676
 
-- 📫 How to reach me: ugurr.karayigit@gmail.com 
+- 📫 How to reach me: info@hummingnodes.com
 
 
 
